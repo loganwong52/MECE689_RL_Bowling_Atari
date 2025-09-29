@@ -30,7 +30,7 @@ MECE689_Bowling/                                        # Parent folder (not par
 │   ├── models/
 │   │   └─ dqn_baseline_10000000.zip                    # Trained DQN Model for 10M time steps
 │   ├── results/
-│   └── README.ms
+│   └── README.md
 ```
 # Installation
 
