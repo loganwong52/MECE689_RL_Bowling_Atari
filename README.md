@@ -14,7 +14,7 @@ This repository contains implementations of reinforcement learning algorithms, D
 ## File structure
 ```
 MECE689_Bowling/                                        # Parent folder (not part of github)
-├── initial_terminal.ipynb                              # "terminal file" I used to clone the github to google drive/google colab
+├── initial_terminal.ipynb                              # "terminal file" I used to clone the github to google colab (not part of github)
 ├── MECE689_RL_Bowling_Atari/                           # The cloned github
 │   ├── .git
 │   ├── github_terminal.ipynb                           # The "terminal file" I use to add, commit, and push to github
